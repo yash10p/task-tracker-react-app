@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Task Tracker App
+A simple task tracking app that allows the users to add/delete tasks in realtime and also set optional reminders.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
